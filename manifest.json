@@ -1,0 +1,22 @@
+{
+  "short_name": "Sovereign",
+  "name": "Sovereign",
+  "icons": [
+    {
+      "src": "Sovereign-icon.jpg",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "Sovereign-icon.jpg",
+      "type": "image/png"
+    },
+    {
+      "src": "Sovereign-icon.jpg",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
